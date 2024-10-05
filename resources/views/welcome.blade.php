@@ -14,6 +14,6 @@
         @include('components.navbar')
 
         {{-- delete if landing page is ready --}}
-        @include('styleguide')
+        @include('cart')
     </body>
 </html>
